@@ -1,0 +1,24 @@
+body
+{
+    background-color: #266b54;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100px;
+    margin: 0px;
+    color: magenta;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    line-height: 5;
+    text-align: center;
+    width: 100%;
+    background-color:indigo;
+    color:darkslategrey;
+}
+
